@@ -1,6 +1,15 @@
 @charset "UTF-8";
 
-@media screen and (min-width: 768px) and (max-width: 992px){
+@media screen and (min-width: 730px) and (max-width: 1200px){
+ 
+    section{
+        width: 700px;
+        height: 300px;
+    }
+    img{
+        width: 290px;
+        height: 300px;
+        border-radius: 20px 0px 0px 20px;
+    }
     
-
 }
