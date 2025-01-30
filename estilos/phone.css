@@ -3,6 +3,7 @@
 :root{
     --cor1: #FF9298;
     --cor2: #84122B;
+    --cor3: #F0A9B0;
 }
 *{
     margin: 0px;
@@ -40,5 +41,34 @@ img{
     width: 346px;
     height: 290px;
     border-radius: 20px 20px 0px 0px;
+}
+img#senha{
+    width: 30px;
+    height: 30px;
+}
+img#usuario{
+    width: 30px;
+    height: 30px;
+}
+img#msg{
+    width: 20px;
+    height: 20px;
+}
+#esqueci{
+    border: 1px solid #84122b;
+    margin: 0px 13px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+input[type="submit"]{
+    margin: auto;
+    width: 320px;
+    height: 40px;
+    background-color: #F0A9B0;
+    color: white;
+    border-radius: 5px;
+    border: none ;
 }
 
