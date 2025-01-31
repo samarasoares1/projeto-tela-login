@@ -46,10 +46,18 @@ img{
 img#senha{
     width: 30px;
     height: 30px;
+    vertical-align: middle;
+    
+    
 }
 img#usuario{
     width: 30px;
     height: 30px;
+    vertical-align: middle;
+}
+.fundo{
+    background-color: #fe6f651e;
+    border-radius: 30px;
 }
 img#msg{
     width: 20px;
