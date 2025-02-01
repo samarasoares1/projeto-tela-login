@@ -29,8 +29,8 @@ p{
 section{
     margin: auto;
     background-color: white;
-    width: 345px;
-    height: 700px;
+    width: 300px;
+    height: 650px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -39,9 +39,7 @@ section{
     box-shadow: 3px 3px 10px #3a071275;
 }
 img{
-    width: 346px;
-    height: 290px;
-    border-radius: 20px 20px 0px 0px;
+    overflow: hidden;
 }
 img#senha{
     width: 30px;
